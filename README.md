@@ -6,7 +6,7 @@ The changes are exported to a separate text file.
 
 ## Setup
 
-Add the clsLogger class to a VBA project.
+Add the csLogger class to a VBA project.
 
 The ThisWookbook.bas file is the code need for the workbook VBA module.
 
