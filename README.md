@@ -8,8 +8,8 @@ The changes are exported to a separate text file.
 
 Add the csLogger class to a VBA project.
 
-The ThisWookbook.bas file is the code need for the workbook VBA module.
+The ThisWookbook.bas file is the code needed for the workbook VBA module.
 
-If handles the operation of calling the logger class for the different workbook events.
+It handles the operation of calling the logger class for the different workbook events.
 
 These events are triggered when a user opens and starts editing the workbook.
